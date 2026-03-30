@@ -88,9 +88,9 @@ Aplicação fullstack para busca de jogos utilizando a API da Steam.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeByGabrielDev&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByGabrielDev&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=CodeByGabrielDev&theme=tokyonight"/>
 </p>
 
 ---
