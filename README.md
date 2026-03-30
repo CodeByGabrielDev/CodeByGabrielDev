@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxwcjJ4NHNuNXJjcjkxbmpybGlrMjNvdnhjNjZjZDFtemRpaGEwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" 
-       width="300" 
+       width="150" 
        style="border-radius: 16px; background: #1e1e1e; display: block; margin: 0 auto;" 
        alt="Coding animation gif" />
   <br />
