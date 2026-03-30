@@ -1,24 +1,42 @@
 <h1 align="center">Fala aí, eu sou o Gabriel Lima 👋</h1>
 
 <p align="center">
-  💻 Analista de Suporte Sênior <br>
-  🎓 Estudante de Analise e Desenvolvimento de Sistemas <br>
-  🚀 Focado em Back-end com Java & Spring
+  💻 Desenvolvedor Back-end (Java & Spring) <br>
+  🛠️ Experiência sólida como Analista de Suporte Sênior <br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor Back-end em constante evolução, atualmente atuando como **Analista de Suporte Sênior**, com forte contato com sistemas reais, debugging e resolução de problemas críticos.
+Atuo como Analista de Suporte Sênior, lidando diariamente com sistemas em produção, debugging e resolução de incidentes críticos — o que fortaleceu minha visão prática de software.
 
-Tenho foco na construção de **APIs REST robustas**, aplicando boas práticas de arquitetura, segurança e organização de código.
+Como desenvolvedor Back-end, construo APIs REST com foco em:
+
+✔️ Arquitetura limpa e organização de código  
+✔️ Segurança com Spring Security + JWT  
+✔️ Integração com bancos de dados relacionais  
+✔️ Escalabilidade e manutenção  
 
 💡 Interesses principais:
-- Arquitetura de Software
-- Segurança (Spring Security + JWT)
-- Performance e escalabilidade
-- Boas práticas (Clean Code, SOLID, MVC)
+- Arquitetura de Software  
+- Segurança de aplicações  
+- Performance e escalabilidade  
+- Boas práticas (Clean Code, SOLID, MVC)  
+
+---
+
+## 🧪 Projetos em Destaque
+
+### 🎮 PlaySync
+
+Aplicação fullstack para busca de jogos utilizando a API da Steam.
+
+🔹 Backend completo desenvolvido com Java + Spring Boot  
+🔹 Consumo de API externa com WebClient (reativo)  
+🔹 Persistência com JPA + MySQL  
+🔹 Arquitetura em camadas (Controller, Service, Client, DTO)  
 
 ---
 
@@ -38,24 +56,19 @@ Tenho foco na construção de **APIs REST robustas**, aplicando boas práticas d
 
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Jackson-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🗄️ Bancos de Dados
+### 🗄️ Banco de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
@@ -77,6 +90,7 @@ Tenho foco na construção de **APIs REST robustas**, aplicando boas práticas d
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
@@ -84,7 +98,7 @@ Tenho foco na construção de **APIs REST robustas**, aplicando boas práticas d
 ## 📫 Contato
 
 <p>
-  <a href="www.linkedin.com/in/gabriel-lima-892682213">
+  <a href="https://www.linkedin.com/in/gabriel-lima-892682213">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:ogabriellima1999@gmail.com">
