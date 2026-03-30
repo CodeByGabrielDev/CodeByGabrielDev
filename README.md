@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5oOG55OXRka3dxczdsM3M3eWhvYndobWZoaXo4OG5lZjF0bGllcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" 
-       width="400" 
+       width="200" 
        style="border-radius:12px; background:#1e1e1e; display:block; margin:auto;" />
   <br>
   Gabriel Lima 👋
