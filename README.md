@@ -1,10 +1,11 @@
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Fodnc5aHdmdWlndnVkbmpvcmIyOW9xaTIzdHgyOXc2cjBrYXN6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"
-       width="300" style="border-radius: 12px; background: #1e1e1e;" />
+       width="150" style="border-radius: 12px; background: #1e1e1e;" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5oOG55OXRka3dxczdsM3M3eWhvYndobWZoaXo4OG5lZjF0bGllcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"
-       width="300" style="border-radius: 12px; background: #1e1e1e;" />
+       width="150" style="border-radius: 12px; background: #1e1e1e;" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnduMjd1ZDh0OXlhdTdhM3hzMWVsZXdzc3pjNGhhMzF6d2NhZDhpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif"
-       width="300" style="border-radius: 12px; background: #1e1e1e;" />
+       width="150" style="border-radius: 12px; background: #1e1e1e;" />
+   Gabriel Lima 👋
 </div>
 
 <p align="center">
