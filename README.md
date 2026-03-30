@@ -9,10 +9,6 @@
        width="150" style="border-radius: 12px; background: #1e1e1e;" />
 </div>
 
-<p align="center" style="margin-top: 0; font-size: 1.2em; font-weight: 600;">
-  Gabriel Lima 👋
-</p>
-
 <p align="center">
   💻 Desenvolvedor Back-end (Java & Spring) <br>
   🛠️ Experiência sólida como Analista de Suporte Sênior <br>
