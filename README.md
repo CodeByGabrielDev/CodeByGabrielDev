@@ -16,7 +16,7 @@ Como desenvolvedor Back-end, construo APIs REST com foco em:
 
 ✔️ Arquitetura limpa e organização de código  
 ✔️ Segurança com Spring Security + JWT  
-✔️ Integração com bancos de dados relacionais  
+✔️ Integração com bancos de dados relacionais (SQL Server, Oracle)  
 ✔️ Escalabilidade e manutenção  
 
 💡 Interesses principais:
@@ -30,30 +30,45 @@ Como desenvolvedor Back-end, construo APIs REST com foco em:
 ## 🧪 Projetos em Destaque
 
 ### 🎮 PlaySync
-
 Aplicação fullstack para busca de jogos utilizando a API da Steam.
 
-🔹 Backend completo desenvolvido com Java + Spring Boot  
-🔹 Consumo de API externa com WebClient (reativo)  
-🔹 Persistência com JPA + MySQL  
-🔹 Arquitetura em camadas (Controller, Service, Client, DTO)  
+- Backend: Java + Spring Boot (RESTful API)  
+- Frontend: React + TailwindCSS  
+- Consumo de APIs externas com WebClient  
+- Persistência: JPA + MySQL  
+- Arquitetura em camadas (Controller, Service, Client, DTO)  
+
+### 💍 TrueUnion – Wedding Management API
+API backend completa para gestão de casamentos (B2C) com arquitetura profissional.
+
+- Java 17 + Spring Boot  
+- Banco de dados: SQL Server (Triggers, Views)  
+- MVC + camadas (Controller → Service → Repository → Entity)  
+- Automação de regras com Scheduler  
+- Gestão de usuários, eventos, convites, finanças e tarefas  
+
+### 🧾 SmartPDV – Sistema de Ponto de Venda Enterprise
+Sistema PDV robusto para ambiente corporativo.
+
+- Java 17 + Spring Boot  
+- Segurança: Spring Security + JWT  
+- Banco de dados: Oracle + PL/SQL  
+- Controle de estoque, vendas, caixa e módulo fiscal completo  
+- Arquitetura em camadas, validações centralizadas e fluxo por filial  
 
 ---
 
 ## 🚀 Stack Back-end
 
 ### 🧩 Linguagens
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
-
 ### ⚙️ Frameworks & Tecnologias
-
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
@@ -61,20 +76,7 @@ Aplicação fullstack para busca de jogos utilizando a API da Steam.
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
 </p>
 
----
-
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
----
-
 ### 🛠️ Ferramentas
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -84,7 +86,6 @@ Aplicação fullstack para busca de jogos utilizando a API da Steam.
 </p>
 
 ---
-
 
 ## 📫 Contato
 
