@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxwcjJ4NHNuNXJjcjkxbmpybGlrMjNvdnhjNjZjZDFtemRpaGEwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" 
        width="150" 
@@ -9,7 +10,7 @@
 
 <p align="center">
   💻 Desenvolvedor Back-end (Java & Spring) <br>
-  🛠️ Experiência sólida como Analista de Suporte Sênior <br>
+  🛠️ Analista de Suporte Sênior <br>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
@@ -17,7 +18,7 @@
 
 ## 🧠 Sobre mim
 
-Atuo como Analista de Suporte Sênior, lidando diariamente com sistemas em produção, debugging e resolução de incidentes críticos — o que fortaleceu minha visão prática de software.
+Atuo como Analista de Suporte Sênior, com foco em sistemas em produção, debugging e resolução de incidentes — fortalecendo minha visão prática sobre comportamento real de aplicações e regras de negócio.
 
 Como desenvolvedor Back-end, construo APIs REST com foco em:
 
