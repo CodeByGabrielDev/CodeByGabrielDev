@@ -16,7 +16,7 @@ Como desenvolvedor Back-end, construo APIs REST com foco em:
 
 ✔️ Arquitetura limpa e organização de código  
 ✔️ Segurança com Spring Security + JWT  
-✔️ Integração com bancos de dados relacionais (SQL Server, Oracle)  
+✔️ Integração com bancos de dados relacionais  
 ✔️ Escalabilidade e manutenção  
 
 💡 Interesses principais:
@@ -63,9 +63,15 @@ Sistema PDV robusto para ambiente corporativo.
 ### 🧩 Linguagens
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### ⚙️ Frameworks & Tecnologias
