@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="[https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5oOG55OXRka3dxczdsM3M3eWhvYndobWZoaXo4OG5lZjF0bGllcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif)" width="400" style="border-radius:12px; background:#1e1e1e"/>  
-  
-</h1>Gabriel Lima 👋
+Gabriel Lima 👋  
+</h1>
 
 <p align="center">
   💻 Desenvolvedor Back-end (Java & Spring) <br>
