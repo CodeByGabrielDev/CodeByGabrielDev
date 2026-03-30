@@ -85,12 +85,6 @@ Aplicação fullstack para busca de jogos utilizando a API da Steam.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeByGabrielDev&show_icons=true&theme=tokyonight"/>
-</p>
----
 
 ## 📫 Contato
 
