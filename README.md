@@ -1,7 +1,7 @@
-<h1 align="center">Fala aí, eu sou o Gabriel Lima 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dev GIF" />
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o7abKGMxFp9uQ3y6s/giphy.gif" width="200"/><br>
+  Fala aí, eu sou o Gabriel Lima 👋
+</h1>
 
 <p align="center">
   💻 Desenvolvedor Back-end (Java & Spring) <br>
