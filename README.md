@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7abKGMxFp9uQ3y6s/giphy.gif" width="200"/><br>
-  Fala aí, eu sou o Gabriel Lima 👋
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="400" style="border-radius:12px; background:#1e1e1e"/>
+  <br>
+  Gabriel Lima 👋
 </h1>
 
 <p align="center">
