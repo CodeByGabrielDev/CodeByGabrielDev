@@ -1,19 +1,22 @@
 <h1 align="center">
-  <div style="display: flex; justify-content: center; gap: 16px;">
-    
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJtazE4NXAzaGIyeTRpc3BhbmdrMHcwbnN2NzRxc290ZzhmdGFqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
-         width="200" 
-         style="border-radius: 16px; background: #1e1e1e;" 
-         alt="Coding animation gif" />
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJtazE4NXAzaGIyeTRpc3BhbmdrMHcwbnN2NzRxc290ZzhmdGFqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"
+             width="200"
+             style="border-radius:16px; background:#1e1e1e;"
+             alt="Coding gif" />
+      </td>
+      <td>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVjcWR4NjBpY3B6ZW5ibWg1eDZjaTR2aW45YXJxMnZhd2E3YmQyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1xVaj5TUjUpRIrlvaA/giphy.gif"
+             width="200"
+             style="border-radius:16px; background:#1e1e1e;"
+             alt="Coding gif 2" />
+      </td>
+    </tr>
+  </table>
 
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVjcWR4NjBpY3B6ZW5ibWg1eDZjaTR2aW45YXJxMnZhd2E3YmQyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1xVaj5TUjUpRIrlvaA/giphy.gif"
-         width="200"
-         style="border-radius: 16px; background: #1e1e1e;" 
-         alt="Second coding gif" />
-
-  </div>
-
-  <br />
+  <br/>
 
   Gabriel Lima 👋
 </h1>
