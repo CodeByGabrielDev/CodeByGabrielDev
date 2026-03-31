@@ -1,4 +1,6 @@
-<h1 align="center">
+<div flex>
+    <h1 align="center">
+  
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJtazE4NXAzaGIyeTRpc3BhbmdrMHcwbnN2NzRxc290ZzhmdGFqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
        width="200" 
        style="border-radius: 16px; background: #1e1e1e; display: block; margin: 0 auto;" 
@@ -15,6 +17,8 @@
 
   Gabriel Lima 👋
 </h1>
+  </div>
+
 
 <p align="center">
   💻 Desenvolvedor Back-end (Java & Spring) <br>
