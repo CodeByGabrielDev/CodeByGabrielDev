@@ -1,10 +1,18 @@
-
 <h1 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJtazE4NXAzaGIyeTRpc3BhbmdrMHcwbnN2NzRxc290ZzhmdGFqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
        width="200" 
        style="border-radius: 16px; background: #1e1e1e; display: block; margin: 0 auto;" 
        alt="Coding animation gif" />
+  
   <br />
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVjcWR4NjBpY3B6ZW5ibWg1eDZjaTR2aW45YXJxMnZhd2E3YmQyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1xVaj5TUjUpRIrlvaA/giphy.gif"
+       width="200"
+       style="border-radius: 16px; background: #1e1e1e; display: block; margin: 10px auto;" 
+       alt="Second coding gif" />
+
+  <br />
+
   Gabriel Lima 👋
 </h1>
 
