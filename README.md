@@ -16,7 +16,7 @@
 </h1>
 
 <p align="center">
-  💻 Backend Developer | Java • Spring • TypeScript • Integrações REST <br>
+  💻 Backend Developer | Java • C# • Spring • .NET • Integrações REST <br>
   🛠️ Analista de Suporte Sênior <br>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas
 </p>
@@ -42,10 +42,23 @@ Como desenvolvedor Back-end, construo APIs REST e sistemas orientados a regras d
 - Segurança de aplicações
 - Engenharia backend enterprise
 - Boas práticas (Clean Code, SOLID, MVC)
+- Transição de princípios de arquitetura entre stacks (Java ↔ .NET)
 
 ---
 
 ## 🧪 Projetos em Destaque
+
+### 📮 ViaCepIntegration.NET
+API REST em C#/.NET com integração externa, persistência e arquitetura em camadas.
+
+- ASP.NET Core Web API + C#  
+- Entity Framework Core + SQL Server  
+- Relacionamento OneToOne via navigation properties  
+- Integração com API externa (ViaCEP) usando HttpClientFactory + Options Pattern  
+- Injeção de dependência nativa, arquitetura em camadas (Controller → Service → Repository → Client)  
+- DTOs imutáveis (record) com separação rígida entre contrato de API e entidade de domínio  
+
+---
 
 ### 🎮 PlaySync
 Sistema fullstack focado em integração de dados e sincronização inteligente com APIs externas.
@@ -105,6 +118,7 @@ Aplicação desenvolvida em Node.js + TypeScript com foco em integração de dad
 ### 🧩 Linguagens
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
@@ -122,6 +136,9 @@ Aplicação desenvolvida em Node.js + TypeScript com foco em integração de dad
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity Framework Core-512BD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -142,6 +159,7 @@ Aplicação desenvolvida em Node.js + TypeScript com foco em integração de dad
 
 ## 📈 Atualmente estudando
 
+- C# / .NET e Entity Framework Core
 - Arquitetura backend enterprise
 - Microsserviços e integração entre sistemas
 - TypeScript aplicado ao backend
