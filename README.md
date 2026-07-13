@@ -16,8 +16,8 @@
 </h1>
 
 <p align="center">
-  💻 Backend Developer | Java • C# • Spring • .NET • Integrações REST <br>
-  🛠️ Analista de Suporte Sênior <br>
+  💻 Fullstack Developer | Java • C# • Node.js • .NET • Integrações REST <br>
+  🏢 Fullstack Developer na Cia. Hering — Azzas 2154 <br>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
@@ -25,95 +25,108 @@
 
 ## 🧠 Sobre mim
 
-Atuo atualmente como Analista de Suporte Sênior, trabalhando diretamente com sistemas críticos em produção, integrações corporativas, debugging avançado e análise de incidentes em ambientes Oracle e Java enterprise.
+Fullstack Developer na Cia. Hering (grupo Azzas 2154), atuando com integrações de sistemas de varejo — conectando plataformas, ERPs e ferramentas de BI.
 
-Como desenvolvedor Back-end, construo APIs REST e sistemas orientados a regras de negócio reais, com foco em:
+Antes da transição para desenvolvimento, atuei como Analista de Suporte Sênior trabalhando diretamente com sistemas críticos em produção, integrações corporativas, debugging avançado e análise de incidentes em ambientes Oracle e Java enterprise. Essa experiência me deu uma visão técnica sólida de sistemas reais antes mesmo de começar a construí-los.
 
-✔️ Arquitetura limpa e organização de código  
+Como desenvolvedor, construo APIs REST e sistemas orientados a regras de negócio reais, com foco em:
+
+✔️ Clean Architecture, DDD e CQRS  
 ✔️ Integrações entre sistemas e APIs REST  
-✔️ Segurança com Spring Security + JWT  
+✔️ Segurança com JWT  
 ✔️ Persistência relacional e NoSQL  
+✔️ Mensageria com Kafka  
 ✔️ Escalabilidade, manutenção e performance  
 
 💡 Principais interesses:
 - Arquitetura de Software
 - Integração entre sistemas
+- Mensageria e processamento de eventos
 - Performance e escalabilidade
-- Segurança de aplicações
 - Engenharia backend enterprise
-- Boas práticas (Clean Code, SOLID, MVC)
-- Transição de princípios de arquitetura entre stacks (Java ↔ .NET)
+- Boas práticas (Clean Code, SOLID, DDD)
+- Transição de princípios de arquitetura entre stacks (Java ↔ .NET ↔ Node.js)
 
 ---
 
 ## 🧪 Projetos em Destaque
 
+### 🦷 OdontoFlow — Sistema de Gestão Odontológica
+Sistema completo para clínicas odontológicas com conformidade regulatória (CFO e LGPD).
+
+- C# / .NET 9 + ASP.NET Core Web API
+- Clean Architecture com 4 camadas isoladas (Domain, Application, Infrastructure, API)
+- DDD — regras de negócio encapsuladas nas entidades
+- CQRS com MediatR — Commands e Queries separados
+- Entity Framework Core + SQL Server com Fluent API
+- FluentValidation com pipeline automático via MediatR
+- ValueObjects (CPF, CRO, Email, Telefone) com validação encapsulada
+- Auditoria de acesso ao prontuário — exigência CFO
+- JWT para autenticação
+
+---
+
 ### 📮 ViaCepIntegration.NET
 API REST em C#/.NET com integração externa, persistência e arquitetura em camadas.
 
-- ASP.NET Core Web API + C#  
-- Entity Framework Core + SQL Server  
-- Relacionamento OneToOne via navigation properties  
-- Integração com API externa (ViaCEP) usando HttpClientFactory + Options Pattern  
-- Injeção de dependência nativa, arquitetura em camadas (Controller → Service → Repository → Client)  
-- DTOs imutáveis (record) com separação rígida entre contrato de API e entidade de domínio  
+- ASP.NET Core Web API + C#
+- Entity Framework Core + SQL Server
+- Relacionamento OneToOne via navigation properties
+- Integração com API externa (ViaCEP) usando HttpClientFactory + Options Pattern
+- Injeção de dependência nativa, arquitetura em camadas
+- DTOs imutáveis (record) com separação rígida entre contrato de API e entidade de domínio
 
 ---
 
 ### 🎮 PlaySync
 Sistema fullstack focado em integração de dados e sincronização inteligente com APIs externas.
 
-- Backend: Java + Spring Boot  
-- Frontend: React + TailwindCSS  
-- Integração com APIs externas utilizando WebClient  
-- Estratégias de cache e atualização incremental de dados  
-- Persistência híbrida com DynamoDB e bancos relacionais  
-- Arquitetura em camadas e desacoplamento de serviços  
-- Testes utilizando mocks para integração AWS  
+- Backend: Java + Spring Boot
+- Frontend: React + TailwindCSS
+- Integração com APIs externas utilizando WebClient
+- Estratégias de cache e atualização incremental de dados
+- Persistência híbrida com DynamoDB e bancos relacionais
+- Arquitetura em camadas e desacoplamento de serviços
+- Deploy na AWS EC2 com Elastic IP
 
 ---
 
 ### 💍 TrueUnion – Wedding Management API
-API backend completa para gestão de casamentos (B2C) com arquitetura profissional.
+API backend completa para gestão de casamentos com arquitetura profissional.
 
-- Java 17 + Spring Boot  
-- Banco de dados: SQL Server (Triggers, Views e automações)  
-- MVC + camadas (Controller → Service → Repository → Entity)  
-- Scheduler para automação de regras de negócio  
-- Gestão de usuários, eventos, convites, finanças e tarefas  
-- Regras financeiras e controle de parcelamentos  
-- Arquitetura RESTful com DTOs e tratamento centralizado de exceções  
+- Java 17 + Spring Boot
+- Banco de dados: SQL Server (Triggers, Views e automações)
+- MVC + camadas (Controller → Service → Repository → Entity)
+- Scheduler para automação de regras de negócio
+- Gestão de usuários, eventos, convites, finanças e tarefas
+- Regras financeiras e controle de parcelamentos
 
 ---
 
 ### 🧾 SmartPDV – Sistema de Ponto de Venda Enterprise
 Sistema PDV robusto para ambiente corporativo.
 
-- Java 17 + Spring Boot  
-- Segurança com Spring Security + JWT  
-- Banco de dados Oracle + PL/SQL  
-- Controle multi-filial com isolamento por loja  
-- Transferência de estoque entre unidades via nota fiscal  
-- Módulo fiscal completo (NF-e, impostos, CFOP)  
-- Gestão de caixa, auditoria e fluxo de estoque  
-- Arquitetura em camadas e validações centralizadas  
+- Java 17 + Spring Boot
+- Segurança com Spring Security + JWT
+- Banco de dados Oracle + PL/SQL
+- Controle multi-filial com isolamento por loja
+- Módulo fiscal completo (NF-e, impostos, CFOP)
+- Gestão de caixa, auditoria e fluxo de estoque
 
 ---
 
 ### 🔄 Desafio Técnico – Integração de Usuários
-Aplicação desenvolvida em Node.js + TypeScript com foco em integração de dados e sincronização de usuários.
+Aplicação em Node.js + TypeScript com foco em integração de dados.
 
-- Consumo de API REST externa (RandomUser API)  
-- Persistência utilizando SQLite + TypeORM  
-- Regras de atualização incremental (INSERT / UPDATE)  
-- Processamento assíncrono com Async/Await  
-- Arquitetura em camadas com Repository Pattern  
-- Geração automatizada de relatório de processamento  
-- Organização seguindo padrões backend modernos  
+- Consumo de API REST externa (RandomUser API)
+- Persistência utilizando SQLite + TypeORM
+- Regras de atualização incremental (INSERT / UPDATE)
+- Processamento assíncrono com Async/Await
+- Arquitetura em camadas com Repository Pattern
 
 ---
 
-## 🚀 Stack Back-end
+## 🚀 Stack
 
 ### 🧩 Linguagens
 <p>
@@ -139,12 +152,13 @@ Aplicação desenvolvida em Node.js + TypeScript com foco em integração de dad
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Entity Framework Core-512BD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge"/>
 </p>
 
 ### 🛠️ Ferramentas
@@ -152,19 +166,18 @@ Aplicação desenvolvida em Node.js + TypeScript com foco em integração de dad
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 ---
 
 ## 📈 Atualmente estudando
 
-- C# / .NET e Entity Framework Core
-- Arquitetura backend enterprise
-- Microsserviços e integração entre sistemas
-- TypeScript aplicado ao backend
-- AWS e persistência NoSQL
-- Performance e escalabilidade de APIs REST
+- Kafka e mensageria distribuída
+- Docker e containerização
+- Node.js e TypeScript aplicado a integrações
+- Arquitetura de sistemas de integração e middleware
+- Microsserviços
 
 ---
 
@@ -183,5 +196,5 @@ Aplicação desenvolvida em Node.js + TypeScript com foco em integração de dad
 ---
 
 <p align="center">
-  🚀 Construindo soluções backend focadas em integrações, arquitetura e sistemas corporativos
+  🚀 Fullstack Developer focado em integrações, arquitetura e sistemas corporativos
 </p>
